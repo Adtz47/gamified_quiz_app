@@ -3,14 +3,14 @@
 A new Flutter project.
 
 ## Getting Started
+This is a quiz app wih gamification features.
+All the data is fetched from the provided API. 
+It has a modern and user friendly UI.
+[WhatsApp Image 2025-02-01 at 23 39 53](https://github.com/user-attachments/assets/257b4b3c-7942-435e-925a-0433ba369e52)
+![WhatsApp Image 2025-02-01 at 23 40 16](https://github.com/user-attachments/assets/a58a81c0-20de-40bc-916a-6e0ab06e2509)
+![WhatsApp Image 2025-02-01 at 23 40 43](https://github.com/user-attachments/assets/7672ff3d-59ef-4d83-8072-9e4feccdc48b)
+![WhatsApp Image 2025-02-01 at 23 41 05](https://github.com/user-attachments/assets/24c0545f-d3d6-436c-85e3-72bc2c85831a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
